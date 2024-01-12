@@ -1,5 +1,5 @@
 ---
-id: the-basics
+id: the-basic
 title: The Basics
 sidebar_label: The Basics
 slug: /
